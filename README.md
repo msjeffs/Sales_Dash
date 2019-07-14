@@ -1,12 +1,14 @@
 # Welcome to Dash!
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "DAshboard example")
+
 The purpose of this dashboard showcases the features of dash to easily create
 a dashboard to show business information.
 
 
-### Working Version
+### Current Version
 
-Although not dynamic, Dash has the basic Layout
+Describes which states, categories, and segments are most popular
 
 ### Updates to customer_id
 
