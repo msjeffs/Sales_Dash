@@ -1,5 +1,7 @@
 # Welcome to Dash!
-![alt text](https://github.com/msjeffs/Sales_Dash/blob/master/assets/images/Screen%20Shot%202019-07-14%20at%2010.32.17%20AM.png` =100x20)
+![alt text](https://github.com/msjeffs/Sales_Dash/blob/master/assets/images/Screen%20Shot%202019-07-14%20at%2010.32.17%20AM.png =100x20)
+
+<img src="drawing.jpg" alt="drawing" width="200"/>
 
 The purpose of this dashboard showcases the features of dash to easily create
 a dashboard to show business information.
