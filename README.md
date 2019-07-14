@@ -1,6 +1,6 @@
 # Welcome to Dash!
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "DAshboard example")
+![alt text](https://github.com/msjeffs/Sales_Dash/assets/images/Screen Shot 2019-07-14 at 10.32.17 AM.png "Dashboard example")
 
 The purpose of this dashboard showcases the features of dash to easily create
 a dashboard to show business information.
