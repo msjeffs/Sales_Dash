@@ -9,7 +9,7 @@ a dashboard to show business information.
 
 Describes which states, categories, and segments are most popular
 
-<img src="https://github.com/msjeffs/Sales_Dash/blob/master/assets/images/Screen%20Shot%202019-07-14%20at%2010.32.17%20AM.png" alt="alt text" width="90%" height="250"/>
+<img src="https://github.com/msjeffs/Sales_Dash/blob/master/assets/images/Screen%20Shot%202019-07-14%20at%2010.32.17%20AM.png" alt="alt text" width="90%" height="400"/>
 
 ---
 
