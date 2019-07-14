@@ -1,5 +1,5 @@
 # Welcome to Dash!
-![alt text](https://github.com/msjeffs/Sales_Dash/assets/images/`Screen Shot 2019-07-14 at 10.32.17 AM.png`)
+![alt text](https://github.com/msjeffs/Sales_Dash/blob/master/assets/images/Screen%20Shot%202019-07-14%20at%2010.32.17%20AM.png`)
 
 [Dashboard example](./assets/images/`Screen Shot 2019-07-14 at 10.32.17 AM`.png)
 
